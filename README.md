@@ -22,7 +22,6 @@ Python is a versatile and powerful programming language known for its simplicity
 
 Before you dive into the tips and tutorials, make sure you have Python installed on your system. You can download it from the official Python website: [Python.org](https://www.python.org/downloads/)
 
-
 ## Tips and Tricks
 
 Discover handy Python tips and tricks that can simplify your code and improve your productivity. Whether it's a one-liner for a common task or a clever use of Python libraries, you'll find it here.
