@@ -28,8 +28,12 @@ Discover handy Python tips and tricks that can simplify your code and improve yo
 
 - [Tips 1: Using Lists Effectively](lists.ipynb)
 - [Tips 2: Using Numpy Effectievly](numpy.ipynb)
-- [Tips 3: Using Pandas Effectievly](pandas.ipynb)
-- [Tips 4: Using Pandas Effectievly for Data Viz](pandas_dataviz.ipynb)
+- [Tips 3: Indexing with Numpy](numpy_indexing.ipynb)
+- [Tips 4: Using Pandas Effectievly](pandas.ipynb)
+- [Tips 5: Visualizing Data with Pandas](pandas_data_viz.ipynb)
+- [Tips 6: Grouping Rows with Pandas](pandas_groupby.ipynb)
+- [Tips 7: Using Pandas Operations Effectievly](pandas_operations.ipynb)
+- [Tips 8: Using Pandas to Read and Write Data](pandas_input_output.ipynb)
 
 ## Tutorials
 
