@@ -2,7 +2,7 @@
 
 THIS REPO IS A WORK IN PROGRESS
 
-Welcome to the Python Tips, Tricks, and Tutorials repository! This repository is a treasure trove of Python knowledge that will help you become a more proficient Python programmer. Whether you're a beginner or an experienced developer, you'll find valuable resources here to enhance your Python skills.
+Welcome to the Python Tips, Tricks, and Tutorials repository! This repository is a collection of Python knowledge that will help you become a more proficient Python programmer. Whether you're a beginner or an experienced developer, you'll find valuable resources here to enhance your Python skills or to refresh on some forgotten Python knowledge.
 
 ![Python Logo](https://www.python.org/static/img/python-logo.png)
 
