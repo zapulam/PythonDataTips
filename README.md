@@ -1,4 +1,4 @@
-# Python Tips, Tricks, and Tutorials Repository
+# Python Data Structures Tips, Tricks, and Tutorials Repository
 
 THIS REPO IS A WORK IN PROGRESS
 
